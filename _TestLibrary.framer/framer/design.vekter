@@ -251,7 +251,7 @@
                     },
                     {
                       "length" : 11,
-                      "style" : "SIZE:18",
+                      "style" : "SIZE:15",
                       "offset" : 0
                     }
                   ],
@@ -264,7 +264,7 @@
                       "COLOR:rgb(0, 0, 0)",
                       "LETTERSPACING:0",
                       "LINEHEIGHT:1.2",
-                      "SIZE:18"
+                      "SIZE:15"
                     ]
                   },
                   "text" : "Description",
@@ -297,13 +297,13 @@
             "constraintsLocked" : false,
             "right" : 33,
             "visible" : true,
-            "centerAnchorY" : 0.661,
+            "centerAnchorY" : 0.697,
             "contrast" : 100,
             "grayScaleEnabled" : 0,
             "hueRotate" : 0,
             "heightFactor" : null,
             "targetName" : null,
-            "bottom" : 137,
+            "bottom" : 119,
             "blur" : 12,
             "autoSize" : false,
             "invertEnabled" : 0,
